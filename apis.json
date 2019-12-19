@@ -1,0 +1,81 @@
+{
+    "name": "ONLYOFFICE",
+    "description": "ONLYOFFICE is an online office suite integrated with a collaboration platform to manage documents, projects, team and customer relations in one place.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1175-teamlab.jpg",
+    "tags": [
+        "documents",
+        "have api",
+        "projects"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/onlyoffice\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ONLYOFFICE",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1175-teamlab.jpg",
+            "humanURL": "https:\/\/mlab.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/onlyoffice-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/api.teamlab.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.teamlab.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/TeamLabBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/teamlab"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/teamlab"
+        },
+        {
+            "type": "Email",
+            "url": "sales@onlyoffice.com"
+        },
+        {
+            "type": "Email",
+            "url": "partners@onlyoffice.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@onlyoffice.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/TeamLab"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/teamlabdotcom"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/only_office"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/mlab.com"
+        }
+    ]
+}
